@@ -4,7 +4,7 @@
 This project explores and analyzes a dataset containing information about kernels belonging to three different varieties of wheat: Kama, Rosa, and Canadian. It includes visualization of scatterplots, clustering using K-means, and dimensionality reduction using PCA. Additionally, a Streamlit web app is provided for interactive exploration of the dataset and visualization of the analysis results.
 
 ## Requirements
-- Python 3.x
+- Python 3.11.5
 - Pandas
 - Matplotlib
 - Seaborn
